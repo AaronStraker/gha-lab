@@ -1,2 +1,2 @@
 # gha-lab
-[![test](https://github.com/USERNAME/gha-lab/actions/workflows/test.yaml/badge.svg)
+[![test](https://github.com/AaronStraker/gha-lab/actions/workflows/test.yaml/badge.svg)
